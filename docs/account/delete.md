@@ -17,14 +17,14 @@
 ### Android客户端
 Android客户端-左上角三条横线-我的账户-删除账户-等待5秒后确认删除。
 
-![Android客户端注销路径](../_assets\images\Logout-1.png)
+![Android客户端注销路径](../_assets/images/Logout-1.png)
 
 ### 网页版
 网页版首页-我的账户-删除账户-确认即可
 
-![网页版注销路径](../_assets\images\Logout-2.png)
+![网页版注销路径](../_assets/mages/Logout-2.png)
 
 ### iOS客户端
 iOS客户端首页-下方第三个人像图标-删除账户-确认即可
 
-![iOS客户端注销路径](../_assets\images\Logout-3.png)
+![iOS客户端注销路径](../_assets/images/Logout-3.png)

@@ -2,16 +2,16 @@
 ## 手机号/邮箱/用户名登录
 输入注册账号的手机号/邮箱/用户名后输入密码，点击登录即可。
 
-![登录示例](../_assets\images\Login-1.png)
+![登录示例](../_assets/images/Login-1.png)
 
 ## 微信/QQ登录
 下方点击微信/QQ图标后，跳转授权登录即可
 
-![微信登录示例](../_assets\images\Login-2.png)
+![微信登录示例](../_assets/images/Login-2.png)
 
-![QQ登录示例](../_assets\images\Login-3.png)
+![QQ登录示例](../_assets/images/Login-3.png)
 
 ## 忘记密码
 如果忘记了自己设置的密码，点击登录下方的忘记密码选项，输入注册手机号/邮箱，获取验证码后输入新密码即可重置。
 
-![忘记密码](../_assets\images\Login-4.png)
+![忘记密码](../_assets/images/Login-4.png)
