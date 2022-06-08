@@ -15,6 +15,14 @@
 * 工具说明
   * [文字识别 (OCR)](apps/ocr.md)  
   * [文本转语音](apps/tts.md)  
+  * [拉伸图片修复](apps/aag.md)  
+  * [lns免登录下载](apps/ins.md)  
+  * [图片清晰度增强](apps/ice.md)  
+  * [人脸融合](apps/face-fusion.md)  
+  * [图片分辨率提升](apps/dpl.md)  
+  * [黑白图片上色](apps/cbawp.md)  
+  * [AI图片识别](apps/air.md)  
+  * [文章摘要生成](apps/aag.md)  
 
 
 * [用户条款](terms.md)
